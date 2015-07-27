@@ -1,6 +1,6 @@
 ## Arduino-Candle
 
-Turns an LED that is connected to a PWM into a flickering candle.
+Turns a LED that is connected to a PWM into a flickering candle.
 
 I created this for a halloween project last year. I wanted a semi-realistic 'candle' to go inside of my animatronic pumpkin (The Chomp-O-Lantern). 
 
